@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="C:\PROJECTES\ANDROID\ffmpeg4android_client_app\ffmpeg4android_client_app\ffmpeg4android_client_demo\build\intermediates\exploded-aar\ffmpeg4android_client_app\ffmpeg4android_os\unspecified\assets" >
+            <file
+                name="about.html"
+                path="C:\PROJECTES\ANDROID\ffmpeg4android_client_app\ffmpeg4android_client_app\ffmpeg4android_client_demo\build\intermediates\exploded-aar\ffmpeg4android_client_app\ffmpeg4android_os\unspecified\assets\about.html" />
+            <file
+                name="contact_us.html"
+                path="C:\PROJECTES\ANDROID\ffmpeg4android_client_app\ffmpeg4android_client_app\ffmpeg4android_client_demo\build\intermediates\exploded-aar\ffmpeg4android_client_app\ffmpeg4android_os\unspecified\assets\contact_us.html" />
+            <file
+                name="image1.jpg"
+                path="C:\PROJECTES\ANDROID\ffmpeg4android_client_app\ffmpeg4android_client_app\ffmpeg4android_client_demo\build\intermediates\exploded-aar\ffmpeg4android_client_app\ffmpeg4android_os\unspecified\assets\image1.jpg" />
+            <file
+                name="image2.jpg"
+                path="C:\PROJECTES\ANDROID\ffmpeg4android_client_app\ffmpeg4android_client_app\ffmpeg4android_client_demo\build\intermediates\exploded-aar\ffmpeg4android_client_app\ffmpeg4android_os\unspecified\assets\image2.jpg" />
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\PROJECTES\ANDROID\ffmpeg4android_client_app\ffmpeg4android_client_app\ffmpeg4android_client_demo\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\PROJECTES\ANDROID\ffmpeg4android_client_app\ffmpeg4android_client_app\ffmpeg4android_client_demo\src\debug\assets" />
+    </dataSet>
+
+</merger>

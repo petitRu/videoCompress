@@ -1,0 +1,2 @@
+include ':ffmpeg4android_os'
+include ':ffmpeg4android_client_demo'
